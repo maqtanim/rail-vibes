@@ -1,2 +1,4 @@
-# rail-vibes
-This repository provides a subset of a larger, comprehensive dataset of track vibration data collected for derailment detection research. This sample dataset provides a representative subset of the larger collection, including 7 CSV files containing vibration data from approaching trains and 3 CSV files containing data from non-train sources. 
+# RailVibes
+This repository provides a subset of a larger, comprehensive dataset of track vibration data collected for derailment detection research. The full dataset encompasses vibration data from 59 approaching trains and 20 scenarios involving non-train sources, including vehicular crossings, pedestrian movements, adjacent track trains, and maintenance activities. This sample dataset provides a representative subset of the larger collection, including 7 CSV files containing vibration data from approaching trains and 3 CSV files containing data from non-train sources. Each CSV file contains eight channels of time-series vibration data.
+
+This sample dataset is intended to provide researchers with a preliminary understanding of the data characteristics and facilitate exploratory analysis. The complete dataset, which includes a more extensive collection of vibration data, can be obtained from the corresponding author upon reasonable request and justification of research needs.
