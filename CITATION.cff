@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Adnan"
+  given-names: "Quaium"
+  orcid: "https://orcid.org/0000-0003-1108-1734"
+- family-names: "A. B. M. Alim Al"
+  given-names: "Islam"
+  orcid: "https://orcid.org/0000-0001-8159-6114"
+title: "RailVibes"
+version: 1.0.0
+date-released: 2025-01-17
+url: "https://github.com/maqtanim/rail-vibes"
